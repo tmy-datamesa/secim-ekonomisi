@@ -1,0 +1,6 @@
+
+# env dosyalarý
+.env
+.env.*
+*.env
+!.env.example
