@@ -1,0 +1,9 @@
+evds_base: "https://evds2.tcmb.gov.tr/service/evds"
+default:
+  type: "json"
+  frequency: "5"      # 5: aylık
+  formulas: "0"       # 0: düzey, 1: aylık %, 3: yıllık %
+io:
+  raw_dir: "data/raw"
+  interim_dir: "data/interim"
+  processed_dir: "data/processed"

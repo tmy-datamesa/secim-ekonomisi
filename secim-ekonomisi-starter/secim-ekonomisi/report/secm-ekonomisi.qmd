@@ -1,0 +1,29 @@
+---
+title: "Seçim Ekonomisi Raporu"
+format:
+  html:
+    toc: true
+    code-fold: true
+jupyter: python3
+---
+
+```{python}
+import pandas as pd, matplotlib.pyplot as plt, pathlib
+from datetime import date
+feat = pd.read_parquet('data/processed/features.parquet')
+panel = pd.read_parquet('data/processed/event_panel.parquet')
+feat.tail(3)
+```
+
+## Event Study – Örnek Grafik
+
+```{python}
+import numpy as np
+sel = panel[panel['series'].str.contains('__logdiff')]
+g = sel.groupby('t')['value'].mean().cumsum()
+plt.figure()
+g.plot()
+plt.title('Seçim öncesi/sonrası ort. kümülatif log-değişim (örnek)')
+plt.xlabel('Ay (t)'); plt.ylabel('Kümülatif'); plt.grid(True)
+plt.show()
+```

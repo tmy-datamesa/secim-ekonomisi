@@ -1,0 +1,9 @@
+domain,indicator_name_tr,series_code,frequency,formulas,start_date,end_date,unit,notes
+Fiyatlar,TÜFE Genel (2003=100),TP.FG.J0,M,0,2010-01-01,,Index,Düzey
+Fiyatlar,TÜFE Aylık %,TP.FG.J0,M,1,2010-01-01,,%,MoM
+Fiyatlar,TÜFE Yıllık %,TP.FG.J0,M,3,2010-01-01,,%,YoY
+Para Politikası,Politika Faizi (1h repo),TP.KTFG.PKRT1,D,0,2010-01-01,,%,
+Konut,Konut Fiyat Endeksi (2017=100),TP.KFE.01,M,0,2010-01-01,,Index,Düzey
+Piyasa,USD/TRY (ortalama),TP.YTP.USD.A,D,0,2010-01-01,,TRY,Günlük ortalama/döviz
+Kredi,Toplam Kredi (yıllık %),TP.KREDI.TUTAR,W,3,2010-01-01,,%,"YoY – örnek, gerçek seriyi EVDS'ten doğrula"
+Maliye,Bütçe Dengesi (milyar TL),TP.HMB.BUTCE,M,0,2010-01-01,,TRY,HMB/EVDS proxy – gerçek seri kodu ile değiştir
