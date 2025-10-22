@@ -1,0 +1,29 @@
+SERIE_CODE,SERIE_NAME,START_DATE
+TP.FE.OKTG01,Tüketici Fiyat Endeksi (Genel),01-01-2003
+TP.FE.OKTG02,A_ Mevsimlik ürünler hariç TÜFE,01-01-2003
+TP.FE.OKTG03,"B_ İşlenmemiş gıda ürünleri, enerji, alkollü içkiler ve tütün ile altın hariç TÜFE",01-01-2003
+TP.FE.OKTG04,"C_ Enerji, gıda ve alkolsüz içecekler, alkollü içkiler ile tütün ürünleri ve altın hariç TÜFE",01-01-2003
+TP.FE.OKTG05,"D_ İşlenmemiş gıda, alkollü içecekler ve tütün ürünleri hariç TÜFE",01-01-2003
+TP.FE.OKTG06,2.Mallar,01-01-2003
+TP.FE.OKTG07,2.1.Enerji,01-01-2003
+TP.FE.OKTG08,2.2.Gıda ve Alkolsüz İçecekler,01-01-2003
+TP.FE.OKTG09,2.2.1.İşlenmemiş gıda,01-01-2003
+TP.FE.OKTG10,2.2.1.1.Taze meyve ve sebze,01-01-2003
+TP.FE.OKTG11,2.2.1.2.Diğer işlenmemiş gıda,01-01-2003
+TP.FE.OKTG12,2.2.2.İşlenmiş gıda,01-01-2003
+TP.FE.OKTG13,2.2.2.1.Ekmek ve tahıllar,01-01-2003
+TP.FE.OKTG14,2.2.2.2.Diğer işlenmiş gıda,01-01-2003
+TP.FE.OKTG15,2.3.Enerji ve gıda dışı mallar,01-01-2003
+TP.FE.OKTG16,2.3.1.Temel Mallar,01-01-2003
+TP.FE.OKTG17,2.3.1.1.Giyim ve Ayakkabı,01-01-2003
+TP.FE.OKTG18,2.3.1.2.Dayanıklı Mallar (altın hariç),01-01-2003
+TP.FE.OKTG19,2.3.1.3.Diğer Temel Mallar,01-01-2003
+TP.FE.OKTG20,"2.3.2.Alkollü içecekler, tütün ve altın",01-01-2003
+TP.FE.OKTG21,3.Hizmet,01-01-2003
+TP.FE.OKTG22,3.1.Kira,01-01-2003
+TP.FE.OKTG23,3.2.Lokanta ve oteller,01-01-2003
+TP.FE.OKTG24,3.3.Ulaştırma hizmetleri,01-01-2003
+TP.FE.OKTG25,3.4.Haberleşme hizmetleri,01-01-2003
+TP.FE.OKTG26,3.5.Diğer hizmetler,01-01-2003
+TP.FE.OKTG27,E_ Alkollü içecekler ve tütün hariç TÜFE,01-01-2003
+TP.FE.OKTG28,F_ Yönetilen_yönlendirilen fiyatlar hariç TÜFE,01-01-2003

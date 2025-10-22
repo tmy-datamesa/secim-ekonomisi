@@ -1,0 +1,96 @@
+SERIE_CODE,SERIE_NAME,START_DATE
+TP.DK.USD.A.YTL,(USD) ABD Doları (Döviz Alış),02-01-1950
+TP.DK.USD.S.YTL,(USD) ABD Doları (Döviz Satış),02-01-1950
+TP.DK.EUR.A.YTL,(EUR) Euro (Döviz Alış),04-01-1999
+TP.DK.EUR.S.YTL,(EUR) Euro (Döviz Satış),04-01-1999
+TP.DK.ATS.A.YTL,(ATS) Avusturya Şilini (Döviz Alış),03-07-1961
+TP.DK.ATS.S.YTL,(ATS) Avusturya Şilini (Döviz Satış),03-07-1961
+TP.DK.AUD.A.YTL,(AUD) Avustralya Doları (Döviz Alış),05-02-1976
+TP.DK.AUD.S.YTL,(AUD) Avustralya Doları (Döviz Satış),05-02-1976
+TP.DK.BEF.A.YTL,(BEF) Belçika Frangı (Döviz Alış),02-01-1951
+TP.DK.BEF.S.YTL,(BEF) Belçika Frangı (Döviz Satış),02-01-1951
+TP.DK.BGN.A.YTL,(BGN) Bulgar Levası (Döviz Alış),24-04-2009
+TP.DK.BGN.S.YTL,(BGN) Bulgar Levası (Döviz Satış),24-04-2009
+TP.DK.CAD.A.YTL,(CAD) Kanada Doları (Döviz Alış),02-05-1962
+TP.DK.CAD.S.YTL,(CAD) Kanada Doları (Döviz Satış),02-05-1962
+TP.DK.CHF.A.YTL,(CHF) İsviçre Frangı (Döviz Alış),02-01-1950
+TP.DK.CHF.S.YTL,(CHF) İsviçre Frangı (Döviz Satış),02-01-1950
+TP.DK.CNY.A.YTL,(CNY) Çin Yuanı (Döviz Alış),20-03-2012
+TP.DK.CNY.S.YTL,(CNY) Çin Yuanı (Döviz Satış),20-03-2012
+TP.DK.DEM.A.YTL,(DEM) Alman Markı (Döviz Alış),01-09-1959
+TP.DK.DEM.S.YTL,(DEM) Alman Markı (Döviz Satış),01-09-1959
+TP.DK.DKK.A.YTL,(DKK) Danimarka Kronu (Döviz Alış),31-08-1961
+TP.DK.DKK.S.YTL,(DKK) Danimarka Kronu (Döviz Satış),31-08-1961
+TP.DK.ECU.A.YTL,(ECU) ECU (Döviz Alış),18-04-1988
+TP.DK.ECU.S.YTL,(ECU) ECU (Döviz Satış),16-05-1989
+TP.DK.ESP.A.YTL,(ESP) İspanyol Pezetası (Döviz Alış),31-12-1988
+TP.DK.ESP.S.YTL,(ESP) İspanyol Pezetası (Döviz Satış),31-12-1988
+TP.DK.FIM.A.YTL,(FIM) Finlandiya Markkası (Döviz Alış),26-01-1987
+TP.DK.FIM.S.YTL,(FIM) Finlandiya Markkası (Döviz Satış),26-01-1987
+TP.DK.FRF.A.YTL,(FRF) Fransız Frangı (Döviz Alış),02-01-1950
+TP.DK.FRF.S.YTL,(FRF) Fransız Frangı (Döviz Satış),02-01-1950
+TP.DK.GBP.A.YTL,(GBP) İngiliz Sterlini (Döviz Alış),02-01-1950
+TP.DK.GBP.S.YTL,(GBP) İngiliz Sterlini (Döviz Satış),02-01-1950
+TP.DK.GRD.A.YTL,(GRD) Yunan Drahmisi (Döviz Alış),03-01-2001
+TP.DK.GRD.S.YTL,(GRD) Yunan Drahmisi (Döviz Satış),03-01-2001
+TP.DK.IEP.A.YTL,(IEP) İrlanda Lirası (Döviz Alış),03-01-1997
+TP.DK.IEP.S.YTL,(IEP) İrlanda Lirası (Döviz Satış),03-01-1997
+TP.DK.IRR.A.YTL,(IRR) 100 İran Riyali (Döviz Alış),12-04-2010
+TP.DK.IRR.S.YTL,(IRR) 100 İran Riyali (Döviz Satış),12-04-2010
+TP.DK.ITL.A.YTL,(ITL) İtalyan Lireti (Döviz Alış),04-08-1958
+TP.DK.ITL.S.YTL,(ITL) İtalyan Lireti (Döviz Satış),04-08-1958
+TP.DK.JPY.A.YTL,(JPY) 100 Japon Yeni (Döviz Alış),27-02-1981
+TP.DK.JPY.S.YTL,(JPY) 100 Japon Yeni (Döviz Satış),27-02-1981
+TP.DK.KWD.A.YTL,(KWD) Kuveyt Dinarı (Döviz Alış),21-09-1977
+TP.DK.KWD.S.YTL,(KWD) Kuveyt Dinarı (Döviz Satış),21-09-1977
+TP.DK.LUF.A.YTL,(LUF) Lüksemburg Frangı (Döviz Alış),03-01-1997
+TP.DK.LUF.S.YTL,(LUF) Lüksemburg Frangı (Döviz Satış),03-01-1997
+TP.DK.NLG.A.YTL,(NLG) Hollanda Florini (Döviz Alış),24-11-1959
+TP.DK.NLG.S.YTL,(NLG) Hollanda Florini (Döviz Satış),24-11-1959
+TP.DK.NOK.A.YTL,(NOK) Norveç Kronu (Döviz Alış),02-01-1961
+TP.DK.NOK.S.YTL,(NOK) Norveç Kronu (Döviz Satış),02-01-1961
+TP.DK.PKR.A.YTL,(PKR) Pakistan Rupisi (Döviz Alış),20-03-2012
+TP.DK.PKR.S.YTL,(PKR) Pakistan Rupisi (Döviz Satış),20-03-2012
+TP.DK.PTE.A.YTL,(PTE) Portekiz Esküdosu (Döviz Alış),03-01-1997
+TP.DK.PTE.S.YTL,(PTE) Portekiz Esküdosu (Döviz Satış),03-01-1997
+TP.DK.RON.A.YTL,(RON) Rumen Leyi (Döviz Alış),12-04-2010
+TP.DK.RON.S.YTL,(RON) Rumen Leyi (Döviz Satış),12-04-2010
+TP.DK.RUB.A.YTL,(RUB) Rus Rublesi (Döviz Alış),12-04-2010
+TP.DK.RUB.S.YTL,(RUB) Rus Rublesi (Döviz Satış),12-04-2010
+TP.DK.SAR.A.YTL,(SAR) S.Arabistan Riyali (Döviz Alış),21-09-1977
+TP.DK.SAR.S.YTL,(SAR) S.Arabistan Riyali (Döviz Satış),21-09-1977
+TP.DK.SEK.A.YTL,(SEK) İsveç Kronu (Döviz Alış),02-01-1950
+TP.DK.SEK.S.YTL,(SEK) İsveç Kronu (Döviz Satış),02-01-1950
+TP.DK.XDR.A.YTL,(XDR) Özel Çekme Hakkı (SDR) (Döviz Alış),18-04-1988
+TP.DK.XDR.S.YTL,(XDR) Özel Çekme Hakkı (SDR) (Döviz Satış),18-04-1988
+TP.DK.USD.C.YTL,(USD) ABD Doları (Çapraz) (USD/USD),02-01-2002
+TP.DK.EUR.C.YTL,(EUR) Euro (Çapraz) (EUR/USD),02-01-2002
+TP.DK.AUD.C.YTL,(AUD) Avustralya Doları (Çapraz) (USD/AUD),02-01-2002
+TP.DK.BGN.C.YTL,(BGN) Bulgar Levası (Çapraz) (USD/BGN),24-04-2009
+TP.DK.CAD.C.YTL,(CAD) Kanada Doları (Çapraz) (USD/CAD),02-01-2002
+TP.DK.CHF.C.YTL,(CHF) İsviçre Frangı (Çapraz) (USD/CHF),02-01-2002
+TP.DK.CNY.C.YTL,(CNY) Çin Yuanı (Çapraz) (USD/CNY),20-03-2012
+TP.DK.DKK.C.YTL,(DKK) Danimarka Kronu (Çapraz) (USD/DKK),02-01-2002
+TP.DK.GBP.C.YTL,(GBP) İngiliz Sterlini (Çapraz) (GBP/USD),02-01-2002
+TP.DK.IRR.C.YTL,(IRR) 100 İran Riyali (Çapraz) (USD/IRR),12-04-2010
+TP.DK.JPY.C.YTL,(JPY) Japon Yeni (Çapraz) (USD/JPY),02-01-2002
+TP.DK.KWD.C.YTL,(KWD) Kuveyt Dinarı (Çapraz) (KWD/USD),02-01-2002
+TP.DK.NOK.C.YTL,(NOK) Norveç Kronu (Çapraz) (USD/NOK),02-01-2002
+TP.DK.PKR.C.YTL,(PKR) Pakistan Rupisi (Çapraz) (USD/PKR),20-03-2012
+TP.DK.QAR.A.YTL,(QAR) Katar Riyali (Döviz Alış),19-08-2013
+TP.DK.QAR.C.YTL,(QAR) Katar Riyali (Çapraz) (USD/QAR),19-08-2013
+TP.DK.QAR.S.YTL,(QAR) Katar Riyali (Döviz Satış),19-08-2013
+TP.DK.RON.C.YTL,(RON) Rumen Leyi (Çapraz) (USD/RON),12-04-2010
+TP.DK.RUB.C.YTL,(RUB) Rus Rublesi (Çapraz) (USD/RUB),12-04-2010
+TP.DK.SAR.C.YTL,(SAR) S.Arabistan Riyali (Çapraz) (USD/SAR),02-01-2002
+TP.DK.SEK.C.YTL,(SEK) İsveç Kronu (Çapraz) (USD/SEK),02-01-2002
+TP.DK.XDR.C.YTL,(XDR) Özel Çekme Hakkı (SDR) (Çapraz) (USD/XDR),18-04-1988
+TP.DK.KRW.A.YTL,(KRW) Güney Kore Wonu (Döviz Alış),23-08-2021
+TP.DK.KRW.C.YTL,(KRW) Güney Kore Wonu (Çapraz) (USD/KRW),23-08-2021
+TP.DK.KRW.S.YTL,(KRW) Güney Kore Wonu (Döviz Satış),23-08-2021
+TP.DK.AED.A.YTL,(AED) Birleşik Arap Emirlikleri Dirhemi (Döviz Alış),21-12-2021
+TP.DK.AED.S.YTL,(AED) Birleşik Arap Emirlikleri Dirhemi (Döviz Satış),21-12-2021
+TP.DK.AED.C.YTL,(AED) Birleşik Arap Emirlikleri Dirhemi (Çapraz) (USD/AED),21-12-2021
+TP.DK.AZN.A.YTL,(AZN) Azerbaycan Yeni Manatı (Döviz Alış),22-12-2021
+TP.DK.AZN.S.YTL,(AZN) Azerbaycan Yeni Manatı (Döviz Satış),22-12-2021
+TP.DK.AZN.C.YTL,(AZN) Azerbaycan Yeni Manatı (Çapraz) (USD/AZN),22-12-2021
